@@ -1,0 +1,4 @@
+_id,items,date,firstName,lastName,email,addressOne,addressTwo,country,state,zip,__v
+5f1c18b3c5d0870164128c8f,"[{""$oid"":""5f1932a193355428e4cdcf67""},{""$oid"":""5f1932a193355428e4cdcf68""}]",2020-07-25T11:33:28.123Z,SHABNAM,S,shabnamsheikh115993@gmail.com,"CHAANDINI(H),KIZHAKKEYIL APPARTMENT","KODATHIPADI,PUTHENKUNNU(P.O)",India,Kerala,673595,0
+5f1c35d1d375f514bc7793e0,"[{""$oid"":""5f1932a193355428e4cdcf67""},{""$oid"":""5f1932a193355428e4cdcf68""}]",2020-07-25T13:37:41.851Z,SHABNAM,S,shabnamsheikh11593@gmail.com,"CHAANDINI(H),KIZHAKKEYIL APPARTMENT","KODATHIPADI,PUTHENKUNNU(P.O)",India,Kerala,673595,0
+5f1d2a9d6a251310649a2feb,"[{""$oid"":""5f1932a193355428e4cdcf67""},{""$oid"":""5f1932a193355428e4cdcf68""},{""$oid"":""5f1932a193355428e4cdcf69""}]",2020-07-26T07:01:51.451Z,SHABNAM,S,shabnamsheikh11593@gmail.com,"CHAANDINI(H),KIZHAKKEYIL APPARTMENT","KODATHIPADI,PUTHENKUNNU(P.O)",India,Kerala,673595,0
